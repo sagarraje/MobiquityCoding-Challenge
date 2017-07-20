@@ -1,0 +1,6 @@
+aws_profile = "mobiquity"
+aws_region = "us-east-1"
+dev_instance_type = "t2.micro"
+dev_ami = "ami-b73b63a0"
+key_name ="kryptonite"
+public_key_path = "/root/.ssh/kryptonite.pub"
